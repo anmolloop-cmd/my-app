@@ -1,0 +1,13 @@
+.card{
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(98, 98, 98);
+    border: none;
+    background-color: aqua;
+    width:20vw;
+    height:40vh;
+
+}
+
+card:onhover{
+    background-color: aquamarine;
+}
